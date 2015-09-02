@@ -17,5 +17,9 @@ namespace TestProject
 
         }
 
+        static void nothin()
+        {
+
+        }
     }
 }
