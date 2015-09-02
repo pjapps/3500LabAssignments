@@ -22,12 +22,12 @@ namespace TestProject
 
         }
 
-        static void newMasterBranch()
+        static void newBranchMethod()
         {
 
         }
 
-        static void newBranchMethod()
+        static void newMasterBranch()
         {
 
         }
