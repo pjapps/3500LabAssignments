@@ -21,5 +21,10 @@ namespace TestProject
         {
 
         }
+
+        static void newBranchMethod()
+        {
+
+        }
     }
 }
